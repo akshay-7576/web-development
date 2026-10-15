@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f7f8;
+    margin: 0;
+}
+.header-bg {
+    background-color: #d9534f;
+    color: white;
+}
+.header-bg h2, .header-bg p {
+    margin: 0;
+}
+.sidebar-bg {
+    background-color: #ffffff;
+    padding-top: 20px;
+}
+.sidebar-bg ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+.sidebar-bg li {
+    margin-bottom: 15px;
+}
+.sidebar-bg a {
+    text-decoration: none;
+    color: #337ab7;
+    font-weight: bold;
+}
+.sidebar-bg a:hover {
+    text-decoration: underline;
+}
